@@ -14,6 +14,8 @@ void contarletras(char *frase,char letra,char l1){
 		contador++;
 	}
 
+
+
 	printf("A letra a aparece %s vezes",frase);
 
 }
