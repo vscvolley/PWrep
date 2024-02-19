@@ -19,6 +19,9 @@ void contarletras(char *frase,char letra,char l1){
 }
 
 
+
+
+
 int main() {
 	int d;
 	char frase[50];
